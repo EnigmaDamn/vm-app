@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "395904822090",
+    "project_id": "bestellapp-d471f",
+    "storage_bucket": "bestellapp-d471f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395904822090:android:6effeac197ecfc34a92fb3",
+        "android_client_info": {
+          "package_name": "com.example.grocery_shop_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395904822090-snchjp2jqka23o93o14sbjt7i3d746n9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5uS1XdiXwvy75bsAAIoXGqZ3A-kpQExk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395904822090-snchjp2jqka23o93o14sbjt7i3d746n9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
